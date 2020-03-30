@@ -6,7 +6,7 @@ system provides train timing details, PNR number, seat number, booking and cance
 class of coach of various types of reservation namely,Confirm Reservation for confirm seat. Waiting list
 reservation.
 
-######Steps to run this application as it should be:-
+***Steps to run this application as it should be:-***
 
 **Installation**
 1. Java - Because this application is built on it https://java.com/en/download/help/download_options.xml
